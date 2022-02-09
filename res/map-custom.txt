@@ -1,0 +1,55 @@
+# Nicholas Cuevas (SCPD Student) Custom Map
+
+IMAGE
+map-custom.jpg
+1000
+800
+
+FLAGS
+heuristic=true
+
+VERTICES
+Junk Junction;211;137
+Haunted Hills;170;261
+Snobby Shores;97;499
+Pleasant Park;300;348
+Anarchy Acres;564;250
+Tilted Towers;396;540
+Greasy Grove;250;645
+Shifty Shafts;395;682
+Dusty Depot;620;520
+Loot Lake;465;390
+Tomato Town;705;375
+Salty Springs;605;655
+Fatal Fields;640;785
+Wailing Woods;875;308
+Retail Row;790;585
+Lonely Lodge;950;465
+
+EDGES
+Haunted Hills;Junk Junction;1715
+Haunted Hills;Pleasant Park;1560
+Haunted Hills;Snobby Shores;1200
+Haunted Hills;Anarchy Acres;2150
+Haunted Hills;Loot Lake;1390
+Snobby Shores;Pleasant Park;1645
+Snobby Shores;Shifty Shafts;1980
+Snobby Shores;Loot Lake;1987
+Snobby Shores;Greasy Grove;1800
+Loot Lake;Anarchy Acres;1184
+Loot Lake;Tilted Towers;800
+Loot Lake;Dusty Depot;1230
+Loot Lake;Lonely Lodge;2200
+Tilted Towers;Salty Springs;1498
+Tilted Towers;Retail Row;1654
+Tilted Towers;Fatal Fields;1765
+Tilted Towers;Shifty Shafts;1134
+Shifty Shafts;Anarchy Acres;2098
+Anarchy Acres;Wailing Woods;1287
+Fatal Fields;Lonely Lodge;1966
+Fatal Fields;Wailing Woods;2700
+Wailing Woods;Lonely Lodge;987
+Salty Springs;Tomato Town;1329
+Salty Springs;Retail Row;998
+Retail Row;Lonely Lodge;1003
+Tomato Town;Lonely Lodge;1030
